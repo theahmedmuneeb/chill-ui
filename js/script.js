@@ -7,8 +7,7 @@ function lazyCustomJs(){
 function scrollCustomJs(){
   /* JavaScripts here */
 };
-/*]]>*/</script> 
-  <script type="text/javascript">/*<![CDATA[*/
+
       var PuSet = {
         license: {
           key: licenseKey
