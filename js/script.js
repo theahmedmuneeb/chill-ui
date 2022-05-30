@@ -1,14 +1,4 @@
-/* Lazy Javascript, do not remove function */
-function lazyCustomJs(){
-  /* JavaScripts here */
-}; 
-
-/* Lazy (Scroll) JavaScripts, do not remove function */
-function scrollCustomJs(){
-  /* JavaScripts here */
-};
-
-      var PuSet = {
+        var PuSet = {
         license: {
           key: licenseKey
         },
